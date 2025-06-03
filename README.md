@@ -68,4 +68,6 @@ Oluşturulan graph yapısı ile kullanıcıya daha iyi bir kullanım sunmak amac
 
 Kullanıcının oluşturulan asistan ile sesli ve rahat bir şekilde iletişim kurması için __ElevanLabs__ kullanılmıştır. Buradan seçilen türk bir kullanıcının sesi ile kullanıcıya verilen cevaplar seslendirilmiştir. Çalışmada text-to-speech ve speech-to-text fonksiyonları yer almaktadır.
 
-Çalışmanın örnek çıktısı __output.mp4__ dosyasında mevcuttur.
+Çalışmanın örnek çıktısı __output_example.mp4__ dosyasında mevcuttur.
+📽️ [Videoyu buradan izleyin](https://drive.google.com/file/d/1p0PE2NVZ8IwdWPjONgGrjKieSvRM65Fc/view?usp=sharing)
+
